@@ -21,4 +21,4 @@ Screenshot of step function:
 The image below demonstrates the resulting inferences using Model Monitor:
 
 ### Scatter plot:
-![scatter.png](viz.png)
+![scatter.png](images/viz.png)
