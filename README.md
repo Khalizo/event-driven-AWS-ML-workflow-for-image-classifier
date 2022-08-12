@@ -15,7 +15,7 @@ Step Function's JSON Definition is located in [step_functions/](step_function/)
 
 Screenshot of step function: 
 
-![step](Screenshot 2022-07-16 at 11.17.26.png)
+![step](step_functions/Screenshot 2022-07-16 at 11.17.26.png)
 
 ## Visualization
 The image below demonstrates the resulting inferences using Model Monitor:
